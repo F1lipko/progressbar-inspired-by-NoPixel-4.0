@@ -6,7 +6,8 @@
 
 # Ox_lib integration tutorial DOWN HERE
 ### To integrate progressbar into ox_lib
-
+ 
+ ## RENAME RESOURSCE TO progressbar 
 - First go into ox_lib/resource/interface/client/progress.lua
 - Then find **function lib.progressBar(data)**
 - And then replace that whole function code with mine here
